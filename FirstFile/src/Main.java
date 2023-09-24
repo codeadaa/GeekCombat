@@ -5,11 +5,13 @@ public class Main {
         // Define two numbers
         double num1 = 5.5;
         double num2 = 10.0;
+        double num3 = 10.0;
+        double num4 =1.00;
 
         // Calculate the sum
-        double sum = num1 + num2;
+        double sum = num1 + num2+ num3 +num4;
 
         // Display the result
-        System.out.println("Sum of " + num1 + " and " + num2 + " is: " + sum);
+        System.out.println("Sum of " + num1 + " and " + num2 +"and"+num3 + "and"+num4+" is: " + sum);
     }
 }
