@@ -7,11 +7,12 @@ public class Main {
         double num2 = 10.0;
         double num3 = 10.0;
         double num4 =1.00;
+        double num5 =12.0;
 
         // Calculate the sum
-        double sum = num1 + num2+ num3 +num4;
+        double sum = num1 + num2+ num3 +num4+num5;
 
         // Display the result
-        System.out.println("Sum of " + num1 + " and " + num2 +"and"+num3 + "and"+num4+" is: " + sum);
+        System.out.println("Sum of " + num1 + " and " + num2 +"and"+num3 + "and"+num4+"and"+num5+" is: " + sum);
     }
 }
